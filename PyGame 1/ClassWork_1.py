@@ -1,5 +1,5 @@
 import pygame
-
+#Задание Крест
 width, height = 500, 500
 screen = pygame.display.set_mode((width, height))
 pygame.init()

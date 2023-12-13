@@ -1,5 +1,5 @@
 import pygame
-
+#Задание Прямоугольник
 width, height = map(int, input().split())
 
 screen = pygame.display.set_mode((width, height))

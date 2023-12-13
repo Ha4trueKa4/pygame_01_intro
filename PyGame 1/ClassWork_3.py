@@ -1,5 +1,5 @@
 import pygame
-
+#Задание Шахматная клетка
 width = height = int(input())
 n = int(input())
 size = width // n

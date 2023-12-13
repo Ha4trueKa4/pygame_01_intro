@@ -1,5 +1,5 @@
 import pygame
-
+#Задание Мишень
 width, height = 500, 500
 center = width // 2, height // 2
 
